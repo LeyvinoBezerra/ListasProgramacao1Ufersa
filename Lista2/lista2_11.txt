@@ -1,0 +1,8 @@
+a) gol * (ponteiro para gol, ou seja, um endereço de uma informação tipo gol)
+b) gol
+c) jogador
+d) int
+e) trave
+f) float
+g) char
+h) float

@@ -1,0 +1,3 @@
+Um programa em C++, sempre começa pela função main.
+Funções auxiliares podem ser invocadas a partir da função main.
+Funções também podem ser invocadas a partir de outras funções.

@@ -1,0 +1,1 @@
+O código não é valido porque não se pode usar delete para liberar memória que não foi alocada manualmente com new. A memória utilizada pela variável peso foi alocada automaticamente na criação da variável.

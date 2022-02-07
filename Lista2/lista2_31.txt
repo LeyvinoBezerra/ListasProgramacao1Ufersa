@@ -1,0 +1,1 @@
+Mostra a soma de todos os valores digitados pelo usuário, encerrando quando ele digitar o número zero.
