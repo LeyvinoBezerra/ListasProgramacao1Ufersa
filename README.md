@@ -1,2 +1,2 @@
-# UFERSA_Listas_Programacao
- professor: Judson Santiago
+# UFERSA_Listas_Programação De_computadores
+ Professor: Judson Santiago
